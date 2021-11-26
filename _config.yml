@@ -3,3 +3,5 @@ description: "EditorConfig helps developers define and maintain consistent codin
 url: https://editorconfig.org
 permalink: pretty
 exclude: [ 'ReadMe.md' ]
+
+theme: jekyll-theme-hacker
